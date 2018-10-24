@@ -13,15 +13,15 @@ class MainWindow():
     def __init__(self, main):
 
         # Nos variables
-        lst = ["jazz_1", "jazz_2", "metal_1", "metal_2", "blues_1", "blues_2", "classical_1", "classical_2", "country_1", "country_2", "disco_1", "disco_2", "hiphop_1", "hiphop_2", "metal_1", "metal_2", "pop_1", "pop_2", "rock_1", "rock_2"]
+        lst = ["jazz_1", "jazz_2", "metal_1", "metal_2", "blues_1", "blues_2", "classical_1", "classical_2", "country_1", "country_2", "disco_1", "disco_2", "hiphop_1", "hiphop_2", "pop_1", "pop_2", "rock_1", "rock_2"]
         music1 = StringVar()
         music1.set("jazz_1")
         music2 = StringVar()
-        music2.set("jazz_1")
+        music2.set("hiphop_1")
 
         # Initialisation de nos graphes
         tabplot1 = fft.plot("jazz_1", 1)
-        tabplot2 = fft.plot("jazz_2", 2)
+        tabplot2 = fft.plot("hiphop_1", 2)
         self.joinPlot()
         self.myPlot = self.returnPicture("myplots.jpg")
 
