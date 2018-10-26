@@ -1,4 +1,4 @@
-# MusicIA :notes:
+# :notes: MusicIA :notes:
 
 A simple soft that compare two WAV file to analyze similarities between them. This soft uses the FFT to compare the songs (Fast Fourier Transform).
 
