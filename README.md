@@ -14,7 +14,7 @@ You will have to use some libraries to run the program. Here the list of the lib
 
 All the project was developed under **PyCharmCE 2018.1**.
 
-## How it look like
+## How it looks like
 
 ![ScreenShot_Jazz](/img/screen_jazz.png?raw=true "Main Screen")
 
