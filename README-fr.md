@@ -14,7 +14,7 @@ Afin de lancer le programme, vous aurez besoin de plusieurs librairies. Voici la
 
 Tout le projet a été developpé sous **PyCharmCE 2018.1**.
 
-## 
+## L'interface
 
 ![ScreenShot_Jazz](/img/screen_jazz.png?raw=true "Main Screen")
 
