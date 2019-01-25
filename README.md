@@ -17,7 +17,7 @@ All the project was developed under **PyCharmCE 2018.1**.
 ## How it looks like
 
 ![ScreenShot_Jazz](/img/screen_jazz.png?raw=true "Main Screen")
-<img src="https://github.com/serresebastien/Music-IA/blob/master/img/screen_jazz.png?raw=true" width="300">
+<center><img src="https://github.com/serresebastien/Music-IA/blob/master/img/screen_jazz.png?raw=true" width="900"></center>
 
 On the top, you could select the type of music you want to analyze. In the middle the soft generates the fft graph of each song. And on the bottom you have the percentage of resemblance between the two songs.
 
